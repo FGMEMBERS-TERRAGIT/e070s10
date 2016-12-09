@@ -18,3 +18,5 @@ OBJECT_STATIC _home_delta_Malediven_osmcity4312.xml 73.13802 -0.68141 1.18 0
 OBJECT_STATIC _home_delta_Malediven_osmcity4411.xml 73.15601 -0.69949 2.79 0
 OBJECT_STATIC _home_delta_Malediven_osmcity4412.xml 73.15601 -0.68141 -0.30 0
 # END osm2city__home_delta_Malediven_osm
+OBJECT_SHARED Models/Airport/ndb.ac 73.163958 -0.697664 2.77 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 73.155494 -0.694272 1.31 180
